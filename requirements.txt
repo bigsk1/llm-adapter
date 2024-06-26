@@ -1,0 +1,36 @@
+# Core dependencies
+python-dotenv==1.0.1
+rich==13.7.0
+
+# OpenAI (also used for NVIDIA and Azure OpenAI)
+openai==1.12.0
+
+# Anthropic
+anthropic==0.18.1
+
+# Google
+google-generativeai==0.3.2
+
+# Ollama
+ollama==0.1.6
+
+# Cohere
+cohere==4.54
+
+# AI21
+ai21==2.1.0
+
+# Hugging Face
+huggingface_hub==0.20.3
+
+# Aleph Alpha
+aleph-alpha-client==3.1.0
+
+# Replicate
+replicate==0.22.0
+
+# AWS (for Amazon Bedrock)
+boto3==1.34.49
+
+# Additional utilities
+requests
