@@ -4,6 +4,10 @@
 
 The Universal LLM Adapter is a Python-based tool that provides a unified interface for interacting with various Large Language Models (LLMs) from different providers. It simplifies the process of using multiple LLM APIs by abstracting away the differences in their implementations and offering a consistent way to send requests and receive responses.
 
+
+![llm-adapter](https://imagedelivery.net/WfhVb8dSNAAvdXUdMfBuPQ/695bc126-614d-4571-908d-5a5173127100/public)
+
+
 ## Features
 
 - Support for multiple LLM providers:
@@ -33,7 +37,7 @@ The Universal LLM Adapter is a Python-based tool that provides a unified interfa
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/universal-llm-adapter.git
+   git clone https://github.com/bigsk1/universal-llm-adapter.git
    cd universal-llm-adapter
    ```
 
@@ -50,7 +54,7 @@ The Universal LLM Adapter is a Python-based tool that provides a unified interfa
 
 ## Configuration
 
-1. Copy the `.env.example` file to `.env`:
+1. Copy the `.env.sample` file to `.env`:
    ```
    cp .env.sample .env
    ```
